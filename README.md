@@ -19,5 +19,5 @@ A clean, beginner-friendly **HTML & CSS cheat sheet** — perfect for students, 
 
 ## ❤️ Support my work
 
-If you find this helpful, please give this repo a ⭐ and share it with others!  
-You can also support me directly on [**buymeacoffee**](https://buymeacoffee.com/manikse)
+If you find this helpful, please give this repo a ⭐ and share it with others!   
+<p align="center"> <b>If you like this bot, consider supporting me:</b><br><br> <a href="https://buymeacoffee.com/manikse"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220"> </a> </p>
